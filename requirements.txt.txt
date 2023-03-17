@@ -1,5 +1,0 @@
-openai
-SpeechRecognition
-pyttsx3
-pyaudio
-ecapture
